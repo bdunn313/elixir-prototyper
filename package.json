@@ -1,0 +1,31 @@
+{
+  "name": "elixir-prototyper",
+  "version": "0.0.1",
+  "description": "A very basic html5 base for prototyping using gulp, browsersync, and laravel-elixir",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "laravel-elixir-browser-sync": "^0.1.7",
+    "gulp": "^3.9.0",
+    "laravel-elixir": "^2.3.13"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bdunn313/elixir-prototyper.git"
+  },
+  "keywords": [
+    "prototyping",
+    "gulp",
+    "laravel-elixir",
+    "browsersync"
+  ],
+  "author": "Brad Dunn <brad@braddunn.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bdunn313/elixir-prototyper/issues"
+  },
+  "homepage": "https://github.com/bdunn313/elixir-prototyper#readme"
+}
